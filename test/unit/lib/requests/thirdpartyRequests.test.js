@@ -28,7 +28,6 @@
  --------------
  ******/
 
-const safeStringify = require('safe-stable-stringify');
 const { mockAxios, jsonContentTypeHeader } = require('#test/unit/utils');
 const ThirdpartyRequests = require('../../../../src/lib/requests/thirdpartyRequests');
 const { mockConfigDto } = require('../../../fixtures');

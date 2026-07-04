@@ -30,7 +30,6 @@
 
 'use strict';
 
-/* eslint-env jest */
 /* global httpActual */
 
 const http = jest.genMockFromModule('http');
