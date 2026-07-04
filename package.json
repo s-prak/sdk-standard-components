@@ -43,10 +43,10 @@
     }
   ],
   "dependencies": {
-    "@mojaloop/central-services-logger": "11.10.4",
-    "@mojaloop/ml-number": "^11.4.3",
-    "@mojaloop/ml-schema-transformer-lib": "2.9.0",
-    "axios": "1.16.0",
+    "@mojaloop/central-services-logger": "11.10.5",
+    "@mojaloop/ml-number": "^11.4.4",
+    "@mojaloop/ml-schema-transformer-lib": "2.10.0",
+    "axios": "1.18.1",
     "axios-retry": "4.5.0",
     "base64url": "3.0.1",
     "safe-stable-stringify": "2.5.0",
@@ -63,7 +63,7 @@
       "minimatch": "10.2.2"
     },
     "ajv": "8.18.0",
-    "axios": "1.16.0",
+    "axios": "1.18.1",
     "eslint": {
       "ajv": "6.12.6"
     },
@@ -104,17 +104,17 @@
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
-    "@mojaloop/api-snippets": "18.3.2",
+    "@mojaloop/api-snippets": "18.4.0",
     "@types/jest": "30.0.0",
-    "@types/node": "25.7.0",
+    "@types/node": "26.1.0",
     "audit-ci": "7.1.0",
     "axios-mock-adapter": "2.1.0",
-    "eslint": "10.3.0",
-    "globals": "^17.6.0",
+    "eslint": "10.6.0",
+    "globals": "^17.7.0",
     "jest": "30.4.2",
     "jest-junit": "17.0.0",
-    "nock": "14.0.15",
-    "npm-check-updates": "22.2.0",
+    "nock": "14.0.16",
+    "npm-check-updates": "22.2.9",
     "pre-commit": "2.0.0",
     "replace": "1.2.2",
     "standard-version": "9.5.0",
