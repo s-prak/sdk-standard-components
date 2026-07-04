@@ -57,19 +57,19 @@
   },
   "overrides": {
     "@redocly/openapi-core": {
-      "minimatch": "10.2.2"
+      "minimatch": "10.2.5"
     },
     "filelist": {
-      "minimatch": "10.2.2"
+      "minimatch": "10.2.5"
     },
     "ajv": "8.18.0",
     "axios": "1.18.1",
     "eslint": {
       "ajv": "6.12.6"
     },
-    "form-data": "4.0.4",
-    "lodash": "4.17.23",
-    "lodash-es": "4.17.23",
+    "form-data": "4.0.6",
+    "lodash": "4.18.1",
+    "lodash-es": "4.18.1",
     "replace": {
       "minimatch": "3.0.5"
     },
@@ -80,14 +80,14 @@
       "ajv": "6.12.3",
       "ejs": "3.1.10",
       "sanitize-html": "2.12.1",
-      "markdown-it": "12.3.2"
+      "markdown-it": "14.3.0"
     },
     "test-exclude": {
-      "minimatch": "5.1.6"
+      "minimatch": "5.1.7"
     },
     "widdershins": {
       "swagger2openapi": "7.0.8",
-      "markdown-it": "12.3.2"
+      "markdown-it": "14.3.0"
     },
     "cross-spawn": "7.0.6",
     "trim": "0.0.3",
@@ -95,12 +95,13 @@
     "fast-uri": "3.1.2",
     "fast-xml-builder": "1.1.7",
     "@protobufjs/utf8": "1.1.1",
-    "@grpc/proto-loader": {
-      "protobufjs": "7.5.8"
-    },
-    "@mojaloop/event-sdk": {
-      "protobufjs": "8.0.3"
-    }
+    "@grpc/proto-loader": "0.8.1",
+    "@mojaloop/event-sdk": {},
+    "@grpc/grpc-js": "1.14.4",
+    "protobufjs": "8.6.6",
+    "linkify-it": "5.0.2",
+    "qs": "6.15.3",
+    "js-yaml": "5.2.1"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
